@@ -4,13 +4,13 @@ Ich bin eine angehende Junior Softwareentwicklerin. Auf diesem Profil dokumentie
 
 🔍 Aktuell suche ich eine Position als Junior Frontend- oder Softwareentwicklerin und freue mich über spannende Möglichkeiten.
 
-Mit meiner Berufserfahrung von über 20 Jahren als Sachbearbeiterin in der Administration, den Immobilien und der Industrie weibringe ich nicht nur technisches Interesse mit, sondern auch ein gutes Verständnis für Geschäftsprozesse, strukturiertes Arbeiten und den Blick auf die Bedürfnisse der Anwender. Diese Erfahrung möchte ich künftig gewinnbringend in der Softwareentwicklung einsetzen.
+Mit meiner Berufserfahrung von über 20 Jahren als Sachbearbeiterin in der Administration, den Immobilien und der Industrie bringe ich nicht nur technisches Interesse mit, sondern auch ein tiefes Verständnis für Geschäftsprozesse, strukturiertes Arbeiten und den Blick auf die Bedürfnisse der Anwender/innen. Diese Erfahrung möchte ich künftig gewinnbringend in der Softwareentwicklung einsetzen.
 
 ---
 
 ### 🚀 Woran ich gerade arbeite
 - **[To-do App](https://github.io):** To-do App (React): Eine Aufgabenverwaltung, die ich aktuell weiterentwickle – mit Fokus auf Barrierefreiheit, Benutzerfreundlichekeit und sauberem Code.
-- Ausbei meiner praktischen Erfahrungen mit React, TypeScript und komponentenbasierter Entwicklung.
+- Aus meiner praktischen Erfahrungen mit React, TypeScript und komponentenbasierter Entwicklung.
 - Vertiefung meiner Kenntnisse in modernen Frontend-Technologien, responsivem Design und Best Practices.
 
 ### 🛠️ Mein Tech-Stack & Tools
@@ -24,7 +24,7 @@ Auf meinem Profil findest du verschiedene Projekte. Diese spiegeln meine kontinu
 ### 🚀 nächste Projekte:
 Ich arbeite bereits an weiteren Projekten, um meine Kenntnisse kontinuierlich auszubauen.
 
-- ** Mieterportal: Eine Webanwendung zur für Mieter. Sie können die wichtigstenn Kontakte sehen, einen Schaden melden oder alle Dokumente ansehen.
+- ** Mieterportal: Eine Webanwendung für Mieter. Hier können die wichtigstenn Kontakte eingesehen, schäden gemeldet werden und auch alle Dokumente abgerufen werden.
 - ** Praxis-App für einen Masseur: Entwicklung einer Anwendung für einen realen Anwendungsfall mit Fokus auf Barrierefreiheit und den Anforderungen des späteren Nutzers.
 - ** Weitere Projekte mit React und TypeScript, um mein Wissen in moderner Frontend-Entwicklung weiter zu vertiefen.
 
