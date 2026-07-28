@@ -1,8 +1,8 @@
 # Hallo, ich bin Jasmin! 👋
 
-Ich bin eine angehende Junior Softwareentwicklerin. Auf diesem Profil dokumentiere ich meine gesamte Lernreise – vom ersten "Hello World" bis zu dynamischen Web-Apps.
+Ich bin eine Junior Softwareentwicklerin. Auf diesem Profil dokumentiere ich meine gesamte Lernreise – vom ersten "Hello World" bis zu dynamischen Web-Apps.
 
-🔍 Aktuell suche ich eine Position als Junior Frontend- oder Softwareentwicklerin und freue mich über spannende Möglichkeiten.
+🔍 Aktuell suche ich eine Position als Junior Frontend Entwicklerin und freue mich über spannende Möglichkeiten.
 
 Mit meiner Berufserfahrung von über 20 Jahren als Sachbearbeiterin in der Administration, den Immobilien und der Industrie bringe ich nicht nur technisches Interesse mit, sondern auch ein tiefes Verständnis für Geschäftsprozesse, strukturiertes Arbeiten und den Blick auf die Bedürfnisse der Anwender/innen. Diese Erfahrung möchte ich künftig gewinnbringend in der Softwareentwicklung einsetzen.
 
@@ -14,7 +14,7 @@ Mit meiner Berufserfahrung von über 20 Jahren als Sachbearbeiterin in der Admin
 - Vertiefung meiner Kenntnisse in modernen Frontend-Technologien, responsivem Design und Best Practices.
 
 ### 🛠️ Mein Tech-Stack & Tools
-- **Frontend & UI:** HTML5, CSS, SCSS, JavaScript (ES6+), React, TypeScript
+- **Frontend & UI:** HTML5, CSS, SCSS, JavaScript (ES6+), React, TypeScript,.Tailwind CSS
 - **Tooling & Environments:** Git, Vite, GitHub, npm
 - **Daten & API's:** LocalStorage, REST API's, Fetch API, Async/Await
 
